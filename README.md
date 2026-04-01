@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🚀 My First Rails Journey
 This repository tracks my progress and evolution as I dive into the Ruby on Rails ecosystem. My focus is on mastering backend logic, MVC architecture, and building scalable web applications from the ground up.
 
@@ -27,3 +28,29 @@ Community-Driven Data: Logic for users to input and locate affordable healthy fo
 Dynamic Views: Using Rails Partials for reusable and clean UI components.
 
 Optimized Performance: Efficient database indexing for search and reservations.
+=======
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+>>>>>>> b84536d (Initial commit: Ruby on Rails structure and project setup)
